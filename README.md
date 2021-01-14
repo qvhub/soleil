@@ -1,6 +1,6 @@
 # Soleil : le pire ennemi des réseaux sociaux ?
 
-Par Maya Safa, Maya Safa, Quentin Vautier
+Par Maya Safa, Fanny Billet, Quentin Vautier
 
 --- arborescence du dossier ---
 
