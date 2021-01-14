@@ -8,7 +8,7 @@ Par Maya Safa, Fanny Billet, Quentin Vautier
 - main/ dossier de scrpaing 
 - render/ dossier pour le stockage des resultats du scraping 
 
--------------------------------------------------------------
+------------------------------------------------------------
 
 # Scrapping_reddit_weather
 ***
@@ -39,6 +39,9 @@ Nantes https://www.wunderground.com/calendar/fr/bouguenais/LFRS
 Metz/Nancy https://www.wunderground.com/calendar/fr/liehon/LFJL
 Luxembourg https://www.wunderground.com/calendar/fr/kuntzig/ELLX
 Caen https://www.wunderground.com/calendar/fr/lassay-les-chateaux/LFRK
+
+
+------------------------------------------------------------
 
 ### Technologies
 Liste des technologies utilisées pour le scrapping
