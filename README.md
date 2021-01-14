@@ -26,34 +26,49 @@ Notre objectif est de développer un script pour corréler la visibilité des pu
 Pour cela nous avons choisi de nous intéresser au Subreddit français: Mercredi Tech, un rendez-vous hebdomadaire
 Nous avons récupéré les données de 13 stations différentes météos situées sur des aérodromes ou des aéroports,pour nous synonyme de fiabilité
 
-Paris https://www.wunderground.com/calendar/fr/paris/LFPO
-Marseille https://www.wunderground.com/calendar/fr/marseille/LFML
-Lyon https://www.wunderground.com/calendar/fr/lyon/LFLL
-Toulouse https://www.wunderground.com/calendar/fr/toulouse/LFBO
-Cannes https://www.wunderground.com/calendar/fr/mandelieu-la-napoule/LFMD
-Strasbourg https://www.wunderground.com/calendar/fr/strasbourg/LFST
-Montpellier https://www.wunderground.com/calendar/fr/mauguio/LFMT
-La rochelle https://www.wunderground.com/calendar/fr/la-rochelle/LFBH
-Lille https://www.wunderground.com/calendar/fr/brebieres/LFQQ
-Nantes https://www.wunderground.com/calendar/fr/bouguenais/LFRS
-Metz/Nancy https://www.wunderground.com/calendar/fr/liehon/LFJL
-Luxembourg https://www.wunderground.com/calendar/fr/kuntzig/ELLX
-Caen https://www.wunderground.com/calendar/fr/lassay-les-chateaux/LFRK
+>Paris https://www.wunderground.com/calendar/fr/paris/LFPO  
 
+>Marseille https://www.wunderground.com/calendar/fr/marseille/LFML  
 
-------------------------------------------------------------
+>Lyon https://www.wunderground.com/calendar/fr/lyon/LFLL  
+
+>Toulouse https://www.wunderground.com/calendar/fr/toulouse/LFBO  
+
+>Cannes https://www.wunderground.com/calendar/fr/mandelieu-la-napoule/LFMD  
+
+>Strasbourg https://www.wunderground.com/calendar/fr/strasbourg/LFST  
+
+>Montpellier https://www.wunderground.com/calendar/fr/mauguio/LFMT  
+
+>La rochelle https://www.wunderground.com/calendar/fr/la-rochelle/LFBH  
+
+>Lille https://www.wunderground.com/calendar/fr/brebieres/LFQQ  
+
+>Nantes https://www.wunderground.com/calendar/fr/bouguenais/LFRS  
+
+>Metz/Nancy https://www.wunderground.com/calendar/fr/liehon/LFJL  
+
+>Luxembourg https://www.wunderground.com/calendar/fr/kuntzig/ELLX  
+
+>Caen https://www.wunderground.com/calendar/fr/lassay-les-chateaux/LFRK  
+
 
 ### Technologies
-Liste des technologies utilisées pour le scrapping
+>Liste des technologies utilisées pour le scrapping
 * [Beautifulsoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/): Version 4.9.2. 
 * [Selenium](https://www.selenium.dev/documentation/fr/): Version 3.141.59
 
 #### Installation sur ubuntu
 ***
- Beautifulsoup sur ubuntu
- ``` pip install beautifulsoup4``` ou ```pip3 install beautifulsoup4```
-Selenium sur ubuntu 
-``` pip install beautifulsoup4
+> Beautifulsoup sur ubuntu
+ ``` pip install beautifulsoup4``` ou ```pip3 install beautifulsoup4```  
+ 
+> Selenium sur ubuntu 
+```pip install selenium```  ou ```pip3 install selenium```  
+
+> Driver configuration(Chrome, Firefox) : lien https://github.com/SeleniumHQ/selenium 
+
+-----------------------------------------------------------------------------
 
 # 1 | S C R A P I N G 
 
