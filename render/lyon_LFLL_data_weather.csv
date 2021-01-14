@@ -1,0 +1,732 @@
+,current_day,cloud,temp_max,temp_min
+0,2019-1-1,cloudy,6°,6°
+1,2019-1-2,cloudy,6°,2°
+2,2019-1-3,mostly sunny,4°,-1°
+3,2019-1-4,mostly sunny,5°,-1°
+4,2019-1-5,cloudy,4°,0°
+5,2019-1-6,cloudy,4°,3°
+6,2019-1-7,cloudy,4°,2°
+7,2019-1-8,scattered showers,5°,2°
+8,2019-1-9,mostly cloudy,4°,2°
+9,2019-1-10,mostly cloudy,3°,1°
+10,2019-1-11,mostly cloudy,3°,-1°
+11,2019-1-12,cloudy,5°,0°
+12,2019-1-13,cloudy,7°,3°
+13,2019-1-14,scattered showers,8°,5°
+14,2019-1-15,mostly sunny,8°,0°
+15,2019-1-16,mostly sunny,12°,-1°
+16,2019-1-17,mostly cloudy,10°,2°
+17,2019-1-18,mostly cloudy,3°,-1°
+18,2019-1-19,foggy,3°,-4°
+19,2019-1-20,mostly sunny,8°,0°
+20,2019-1-21,foggy,3°,1°
+21,2019-1-22,cloudy,4°,-1°
+22,2019-1-23,snow,1°,0°
+23,2019-1-24,cloudy,1°,-1°
+24,2019-1-25,mostly sunny,2°,-3°
+25,2019-1-26,cloudy,5°,-1°
+26,2019-1-27,mostly cloudy,10°,2°
+27,2019-1-28,mostly cloudy,5°,1°
+28,2019-1-29,mostly sunny,6°,-1°
+29,2019-1-30,mostly cloudy,5°,2°
+30,2019-1-31,mostly cloudy,8°,2°
+31,2019-2-1,scattered showers,9°,5°
+32,2019-2-2,mostly cloudy,5°,1°
+33,2019-2-3,scattered showers,3°,2°
+34,2019-2-4,partly cloudy,4°,-2°
+35,2019-2-5,mostly sunny,7°,-2°
+36,2019-2-6,foggy,9°,-3°
+37,2019-2-7,scattered showers,7°,1°
+38,2019-2-8,mostly sunny,9°,1°
+39,2019-2-9,mostly sunny,13°,8°
+40,2019-2-10,mostly sunny,12°,6°
+41,2019-2-11,mostly cloudy,7°,3°
+42,2019-2-12,mostly cloudy,7°,1°
+43,2019-2-13,mostly sunny,9°,1°
+44,2019-2-14,mostly sunny,16°,-1°
+45,2019-2-15,mostly sunny,16°,0°
+46,2019-2-16,mostly sunny,19°,2°
+47,2019-2-17,mostly sunny,17°,6°
+48,2019-2-18,mostly sunny,15°,6°
+49,2019-2-19,mostly sunny,15°,2°
+50,2019-2-20,mostly sunny,14°,3°
+51,2019-2-21,mostly sunny,16°,2°
+52,2019-2-22,mostly sunny,16°,4°
+53,2019-2-23,mostly sunny,13°,3°
+54,2019-2-24,mostly sunny,15°,4°
+55,2019-2-25,mostly sunny,16°,2°
+56,2019-2-26,mostly sunny,17°,2°
+57,2019-2-27,mostly sunny,17°,2°
+58,2019-2-28,mostly sunny,18°,4°
+59,2019-3-1,mostly cloudy,12°,7°
+60,2019-3-2,cloudy,11°,5°
+61,2019-3-3,mostly sunny,18°,3°
+62,2019-3-4,mostly sunny,16°,7°
+63,2019-3-5,mostly sunny,16°,7°
+64,2019-3-6,mostly sunny,16°,9°
+65,2019-3-7,mostly sunny,15°,8°
+66,2019-3-8,mostly sunny,13°,7°
+67,2019-3-9,cloudy,13°,9°
+68,2019-3-10,mostly cloudy,18°,10°
+69,2019-3-11,partly cloudy,10°,3°
+70,2019-3-12,mostly sunny,15°,-1°
+71,2019-3-13,partly cloudy,11°,5°
+72,2019-3-14,scattered showers,8°,6°
+73,2019-3-15,mostly cloudy,14°,8°
+74,2019-3-16,mostly sunny,20°,7°
+75,2019-3-17,mostly sunny,19°,5°
+76,2019-3-18,mostly cloudy,9°,4°
+77,2019-3-19,mostly sunny,12°,2°
+78,2019-3-20,mostly sunny,14°,1°
+79,2019-3-21,mostly sunny,14°,1°
+80,2019-3-22,mostly sunny,19°,2°
+81,2019-3-23,mostly sunny,21°,4°
+82,2019-3-24,mostly sunny,20°,5°
+83,2019-3-25,mostly sunny,13°,7°
+84,2019-3-26,mostly sunny,13°,4°
+85,2019-3-27,mostly sunny,14°,2°
+86,2019-3-28,mostly sunny,15°,3°
+87,2019-3-29,mostly sunny,19°,4°
+88,2019-3-30,mostly sunny,19°,7°
+89,2019-3-31,mostly sunny,21°,6°
+90,2019-4-1,mostly sunny,22°,7°
+91,2019-4-2,mostly sunny,19°,7°
+92,2019-4-3,rain,13°,3°
+93,2019-4-4,scattered showers,9°,3°
+94,2019-4-5,mostly sunny,15°,0°
+95,2019-4-6,mostly sunny,14°,7°
+96,2019-4-7,mostly cloudy,13°,8°
+97,2019-4-8,mostly cloudy,14°,7°
+98,2019-4-9,partly cloudy,17°,5°
+99,2019-4-10,partly cloudy,17°,8°
+100,2019-4-11,mostly cloudy,15°,10°
+101,2019-4-12,mostly sunny,14°,4°
+102,2019-4-13,mostly sunny,12°,2°
+103,2019-4-14,mostly sunny,10°,0°
+104,2019-4-15,mostly sunny,18°,1°
+105,2019-4-16,scattered showers,14°,10°
+106,2019-4-17,mostly sunny,22°,7°
+107,2019-4-18,mostly sunny,22°,10°
+108,2019-4-19,mostly sunny,25°,12°
+109,2019-4-20,mostly sunny,24°,12°
+110,2019-4-21,mostly sunny,21°,12°
+111,2019-4-22,mostly sunny,24°,12°
+112,2019-4-23,mostly cloudy,21°,13°
+113,2019-4-24,mostly sunny,18°,13°
+114,2019-4-25,mostly sunny,20°,8°
+115,2019-4-26,mostly sunny,17°,5°
+116,2019-4-27,mostly cloudy,15°,9°
+117,2019-4-28,mostly cloudy,11°,8°
+118,2019-4-29,mostly cloudy,13°,5°
+119,2019-4-30,mostly sunny,18°,5°
+120,2019-5-1,mostly sunny,19°,6°
+121,2019-5-2,mostly cloudy,18°,9°
+122,2019-5-3,partly cloudy,17°,9°
+123,2019-5-4,mostly cloudy,14°,4°
+124,2019-5-5,mostly cloudy,10°,3°
+125,2019-5-6,mostly sunny,14°,3°
+126,2019-5-7,mostly sunny,20°,3°
+127,2019-5-8,scattered showers,15°,9°
+128,2019-5-9,mostly cloudy,17°,9°
+129,2019-5-10,mostly sunny,21°,10°
+130,2019-5-11,mostly cloudy,18°,9°
+131,2019-5-12,mostly cloudy,16°,8°
+132,2019-5-13,mostly sunny,18°,7°
+133,2019-5-14,mostly sunny,19°,7°
+134,2019-5-15,mostly sunny,17°,7°
+135,2019-5-16,mostly sunny,18°,5°
+136,2019-5-17,mostly sunny,15°,10°
+137,2019-5-18,mostly cloudy,18°,10°
+138,2019-5-19,cloudy,17°,11°
+139,2019-5-20,mostly cloudy,17°,12°
+140,2019-5-21,mostly cloudy,20°,12°
+141,2019-5-22,mostly sunny,21°,9°
+142,2019-5-23,mostly sunny,23°,9°
+143,2019-5-24,mostly sunny,25°,13°
+144,2019-5-25,mostly sunny,23°,14°
+145,2019-5-26,mostly sunny,23°,14°
+146,2019-5-27,partly cloudy,21°,13°
+147,2019-5-28,mostly cloudy,18°,11°
+148,2019-5-29,mostly cloudy,19°,10°
+149,2019-5-30,mostly sunny,22°,9°
+150,2019-5-31,mostly sunny,26°,12°
+151,2019-6-1,mostly sunny,29°,15°
+152,2019-6-2,mostly sunny,31°,17°
+153,2019-6-3,mostly sunny,28°,19°
+154,2019-6-4,mostly sunny,29°,18°
+155,2019-6-5,mostly sunny,29°,14°
+156,2019-6-6,mostly cloudy,21°,10°
+157,2019-6-7,mostly sunny,26°,14°
+158,2019-6-8,mostly sunny,23°,13°
+159,2019-6-9,scattered showers,17°,13°
+160,2019-6-10,scattered showers,16°,12°
+161,2019-6-11,scattered showers,14°,12°
+162,2019-6-12,mostly sunny,22°,11°
+163,2019-6-13,mostly sunny,26°,10°
+164,2019-6-14,mostly cloudy,23°,15°
+165,2019-6-15,partly cloudy,22°,15°
+166,2019-6-16,mostly sunny,23°,13°
+167,2019-6-17,mostly sunny,27°,13°
+168,2019-6-18,mostly sunny,29°,16°
+169,2019-6-19,mostly sunny,30°,18°
+170,2019-6-20,mostly cloudy,25°,17°
+171,2019-6-21,mostly cloudy,24°,16°
+172,2019-6-22,mostly sunny,24°,15°
+173,2019-6-23,mostly sunny,29°,15°
+174,2019-6-24,mostly sunny,32°,19°
+175,2019-6-25,mostly sunny,34°,21°
+176,2019-6-26,mostly sunny,36°,23°
+177,2019-6-27,mostly sunny,37°,22°
+178,2019-6-28,mostly sunny,34°,23°
+179,2019-6-29,mostly sunny,37°,21°
+180,2019-6-30,mostly sunny,36°,26°
+181,2019-7-1,mostly sunny,34°,21°
+182,2019-7-2,mostly sunny,29°,19°
+183,2019-7-3,mostly sunny,30°,20°
+184,2019-7-4,mostly sunny,31°,19°
+185,2019-7-5,mostly sunny,34°,19°
+186,2019-7-6,mostly sunny,33°,22°
+187,2019-7-7,mostly sunny,31°,19°
+188,2019-7-8,mostly sunny,31°,18°
+189,2019-7-9,mostly sunny,27°,16°
+190,2019-7-10,mostly sunny,27°,15°
+191,2019-7-11,mostly sunny,26°,16°
+192,2019-7-12,mostly sunny,30°,16°
+193,2019-7-13,mostly sunny,27°,18°
+194,2019-7-14,mostly sunny,27°,15°
+195,2019-7-15,mostly sunny,26°,15°
+196,2019-7-16,mostly sunny,29°,15°
+197,2019-7-17,mostly sunny,30°,16°
+198,2019-7-18,mostly sunny,29°,17°
+199,2019-7-19,mostly sunny,31°,18°
+200,2019-7-20,mostly sunny,31°,22°
+201,2019-7-21,mostly sunny,32°,20°
+202,2019-7-22,mostly sunny,34°,21°
+203,2019-7-23,mostly sunny,38°,21°
+204,2019-7-24,mostly sunny,39°,25°
+205,2019-7-25,mostly sunny,38°,25°
+206,2019-7-26,mostly sunny,36°,21°
+207,2019-7-27,mostly cloudy,26°,18°
+208,2019-7-28,scattered showers,24°,16°
+209,2019-7-29,mostly sunny,27°,14°
+210,2019-7-30,mostly sunny,25°,18°
+211,2019-7-31,mostly sunny,24°,17°
+212,2019-8-1,mostly sunny,27°,14°
+213,2019-8-2,mostly sunny,29°,18°
+214,2019-8-3,mostly sunny,29°,17°
+215,2019-8-4,mostly sunny,31°,17°
+216,2019-8-5,mostly sunny,34°,19°
+217,2019-8-6,mostly sunny,33°,21°
+218,2019-8-7,mostly cloudy,28°,18°
+219,2019-8-8,mostly sunny,30°,18°
+220,2019-8-9,mostly sunny,34°,23°
+221,2019-8-10,mostly sunny,27°,17°
+222,2019-8-11,mostly sunny,26°,15°
+223,2019-8-12,mostly cloudy,22°,14°
+224,2019-8-13,mostly sunny,22°,14°
+225,2019-8-14,mostly sunny,24°,12°
+226,2019-8-15,mostly sunny,25°,16°
+227,2019-8-16,mostly sunny,26°,13°
+228,2019-8-17,mostly sunny,33°,16°
+229,2019-8-18,mostly sunny,31°,21°
+230,2019-8-19,cloudy,21°,17°
+231,2019-8-20,scattered showers,18°,14°
+232,2019-8-21,mostly cloudy,22°,13°
+233,2019-8-22,mostly sunny,24°,13°
+234,2019-8-23,mostly sunny,27°,15°
+235,2019-8-24,mostly sunny,31°,17°
+236,2019-8-25,mostly sunny,31°,18°
+237,2019-8-26,mostly sunny,31°,17°
+238,2019-8-27,mostly sunny,29°,20°
+239,2019-8-28,mostly sunny,31°,20°
+240,2019-8-29,mostly sunny,28°,19°
+241,2019-8-30,mostly sunny,30°,18°
+242,2019-8-31,mostly sunny,34°,19°
+243,2019-9-1,mostly sunny,24°,19°
+244,2019-9-2,mostly sunny,23°,17°
+245,2019-9-3,mostly sunny,25°,12°
+246,2019-9-4,mostly sunny,27°,12°
+247,2019-9-5,mostly cloudy,20°,14°
+248,2019-9-6,mostly cloudy,19°,11°
+249,2019-9-7,mostly sunny,22°,11°
+250,2019-9-8,mostly cloudy,18°,10°
+251,2019-9-9,mostly sunny,19°,8°
+252,2019-9-10,mostly sunny,20°,11°
+253,2019-9-11,mostly sunny,22°,11°
+254,2019-9-12,mostly sunny,26°,10°
+255,2019-9-13,mostly sunny,28°,12°
+256,2019-9-14,mostly sunny,29°,15°
+257,2019-9-15,mostly sunny,32°,16°
+258,2019-9-16,mostly sunny,32°,18°
+259,2019-9-17,mostly sunny,28°,16°
+260,2019-9-18,mostly sunny,22°,14°
+261,2019-9-19,mostly sunny,22°,10°
+262,2019-9-20,mostly sunny,28°,9°
+263,2019-9-21,mostly sunny,28°,16°
+264,2019-9-22,mostly sunny,26°,15°
+265,2019-9-23,partly cloudy,21°,14°
+266,2019-9-24,mostly sunny,20°,12°
+267,2019-9-25,scattered showers,21°,15°
+268,2019-9-26,mostly cloudy,24°,15°
+269,2019-9-27,mostly sunny,27°,14°
+270,2019-9-28,mostly sunny,22°,15°
+271,2019-9-29,mostly sunny,27°,11°
+272,2019-9-30,mostly sunny,22°,16°
+273,2019-10-1,mostly sunny,27°,12°
+274,2019-10-2,mostly cloudy,18°,13°
+275,2019-10-3,mostly sunny,16°,6°
+276,2019-10-4,mostly cloudy,18°,7°
+277,2019-10-5,mostly cloudy,18°,13°
+278,2019-10-6,mostly cloudy,19°,13°
+279,2019-10-7,mostly sunny,16°,10°
+280,2019-10-8,mostly sunny,23°,8°
+281,2019-10-9,mostly sunny,20°,12°
+282,2019-10-10,mostly cloudy,18°,9°
+283,2019-10-11,mostly sunny,23°,8°
+284,2019-10-12,mostly cloudy,21°,16°
+285,2019-10-13,mostly sunny,25°,18°
+286,2019-10-14,mostly sunny,25°,17°
+287,2019-10-15,scattered showers,20°,11°
+288,2019-10-16,mostly sunny,19°,8°
+289,2019-10-17,mostly cloudy,19°,13°
+290,2019-10-18,mostly sunny,19°,15°
+291,2019-10-19,mostly cloudy,20°,15°
+292,2019-10-20,mostly sunny,24°,14°
+293,2019-10-21,scattered showers,15°,12°
+294,2019-10-22,mostly cloudy,14°,12°
+295,2019-10-23,scattered showers,15°,13°
+296,2019-10-24,mostly sunny,20°,13°
+297,2019-10-25,partly cloudy,18°,9°
+298,2019-10-26,mostly sunny,23°,10°
+299,2019-10-27,mostly sunny,22°,13°
+300,2019-10-28,scattered showers,16°,13°
+301,2019-10-29,cloudy,15°,11°
+302,2019-10-30,cloudy,13°,11°
+303,2019-10-31,scattered showers,15°,12°
+304,2019-11-1,scattered showers,15°,11°
+305,2019-11-2,mostly cloudy,18°,13°
+306,2019-11-3,scattered showers,14°,11°
+307,2019-11-4,scattered showers,15°,10°
+308,2019-11-5,scattered showers,15°,10°
+309,2019-11-6,mostly cloudy,12°,7°
+310,2019-11-7,mostly cloudy,10°,7°
+311,2019-11-8,partly cloudy,11°,4°
+312,2019-11-9,mostly cloudy,10°,4°
+313,2019-11-10,cloudy,10°,3°
+314,2019-11-11,foggy,10°,1°
+315,2019-11-12,mostly sunny,11°,3°
+316,2019-11-13,partly cloudy,9°,3°
+317,2019-11-14,snow,7°,0°
+318,2019-11-15,foggy,7°,0°
+319,2019-11-16,mostly sunny,7°,0°
+320,2019-11-17,foggy,4°,-1°
+321,2019-11-18,foggy,9°,1°
+322,2019-11-19,mostly cloudy,7°,3°
+323,2019-11-20,mostly sunny,9°,0°
+324,2019-11-21,mostly sunny,11°,2°
+325,2019-11-22,mostly sunny,15°,7°
+326,2019-11-23,scattered showers,13°,9°
+327,2019-11-24,cloudy,10°,8°
+328,2019-11-25,mostly cloudy,11°,6°
+329,2019-11-26,mostly sunny,14°,6°
+330,2019-11-27,mostly sunny,14°,11°
+331,2019-11-28,mostly cloudy,14°,10°
+332,2019-11-29,mostly cloudy,12°,8°
+333,2019-11-30,foggy,8°,5°
+334,2019-12-1,mostly cloudy,8°,6°
+335,2019-12-2,cloudy,7°,2°
+336,2019-12-3,mostly cloudy,3°,0°
+337,2019-12-4,foggy,3°,-5°
+338,2019-12-5,foggy,2°,-4°
+339,2019-12-6,foggy,9°,-3°
+340,2019-12-7,mostly cloudy,13°,5°
+341,2019-12-8,mostly sunny,14°,6°
+342,2019-12-9,mostly cloudy,10°,6°
+343,2019-12-10,mostly sunny,7°,1°
+344,2019-12-11,rain,5°,1°
+345,2019-12-12,mostly cloudy,8°,3°
+346,2019-12-13,scattered showers,10°,4°
+347,2019-12-14,scattered showers,12°,5°
+348,2019-12-15,mostly sunny,16°,11°
+349,2019-12-16,mostly sunny,15°,12°
+350,2019-12-17,mostly sunny,18°,12°
+351,2019-12-18,mostly sunny,18°,12°
+352,2019-12-19,mostly sunny,17°,10°
+353,2019-12-20,scattered showers,17°,9°
+354,2019-12-21,scattered showers,13°,8°
+355,2019-12-22,mostly cloudy,13°,7°
+356,2019-12-23,mostly cloudy,10°,5°
+357,2019-12-24,scattered showers,10°,3°
+358,2019-12-25,foggy,10°,1°
+359,2019-12-26,foggy,8°,3°
+360,2019-12-27,scattered showers,11°,7°
+361,2019-12-28,cloudy,8°,5°
+362,2019-12-29,foggy,5°,2°
+363,2019-12-30,foggy,8°,0°
+364,2019-12-31,foggy,3°,-2°
+365,2020-1-1,foggy,0°,-1°
+366,2020-1-2,foggy,8°,-1°
+367,2020-1-3,mostly sunny,10°,5°
+368,2020-1-4,foggy,9°,3°
+369,2020-1-5,partly cloudy,6°,-1°
+370,2020-1-6,mostly sunny,10°,-2°
+371,2020-1-7,foggy,8°,1°
+372,2020-1-8,foggy,9°,2°
+373,2020-1-9,mostly sunny,14°,3°
+374,2020-1-10,mostly cloudy,11°,6°
+375,2020-1-11,mostly cloudy,7°,4°
+376,2020-1-12,foggy,8°,1°
+377,2020-1-13,foggy,9°,0°
+378,2020-1-14,mostly sunny,13°,8°
+379,2020-1-15,mostly sunny,13°,10°
+380,2020-1-16,mostly sunny,13°,5°
+381,2020-1-17,scattered showers,11°,6°
+382,2020-1-18,partly cloudy,8°,1°
+383,2020-1-19,mostly sunny,6°,1°
+384,2020-1-20,mostly sunny,6°,-2°
+385,2020-1-21,mostly sunny,5°,-2°
+386,2020-1-22,foggy,4°,-2°
+387,2020-1-23,foggy,0°,-3°
+388,2020-1-24,foggy,8°,-3°
+389,2020-1-25,foggy,12°,1°
+390,2020-1-26,mostly cloudy,12°,6°
+391,2020-1-27,foggy,10°,3°
+392,2020-1-28,scattered showers,11°,5°
+393,2020-1-29,scattered showers,10°,6°
+394,2020-1-30,scattered showers,10°,3°
+395,2020-1-31,mostly cloudy,17°,8°
+396,2020-2-1,mostly cloudy,15°,8°
+397,2020-2-2,scattered showers,14°,10°
+398,2020-2-3,mostly sunny,19°,10°
+399,2020-2-4,mostly cloudy,16°,4°
+400,2020-2-5,mostly sunny,9°,3°
+401,2020-2-6,mostly sunny,7°,-1°
+402,2020-2-7,mostly sunny,13°,2°
+403,2020-2-8,mostly sunny,14°,4°
+404,2020-2-9,mostly sunny,12°,7°
+405,2020-2-10,mostly cloudy,18°,11°
+406,2020-2-11,mostly cloudy,13°,6°
+407,2020-2-12,mostly sunny,11°,3°
+408,2020-2-13,mostly sunny,11°,1°
+409,2020-2-14,mostly cloudy,12°,4°
+410,2020-2-15,mostly sunny,17°,2°
+411,2020-2-16,mostly sunny,15°,10°
+412,2020-2-17,scattered showers,14°,8°
+413,2020-2-18,partly cloudy,10°,3°
+414,2020-2-19,scattered showers,9°,4°
+415,2020-2-20,mostly sunny,15°,2°
+416,2020-2-21,mostly sunny,10°,4°
+417,2020-2-22,mostly sunny,15°,0°
+418,2020-2-23,mostly sunny,20°,3°
+419,2020-2-24,mostly sunny,19°,6°
+420,2020-2-25,mostly sunny,13°,5°
+421,2020-2-26,mostly cloudy,9°,3°
+422,2020-2-27,cloudy,9°,2°
+423,2020-2-28,mostly sunny,12°,0°
+424,2020-2-29,mostly cloudy,14°,10°
+425,2020-3-1,mostly sunny,14°,7°
+426,2020-3-2,scattered showers,10°,6°
+427,2020-3-3,mostly cloudy,10°,4°
+428,2020-3-4,mostly cloudy,10°,4°
+429,2020-3-5,scattered showers,12°,7°
+430,2020-3-6,mostly cloudy,10°,5°
+431,2020-3-7,mostly cloudy,9°,3°
+432,2020-3-8,mostly sunny,14°,1°
+433,2020-3-9,mostly cloudy,11°,5°
+434,2020-3-10,cloudy,9°,3°
+435,2020-3-11,mostly sunny,19°,8°
+436,2020-3-12,mostly sunny,17°,9°
+437,2020-3-13,mostly sunny,12°,5°
+438,2020-3-14,mostly sunny,13°,2°
+439,2020-3-15,mostly sunny,17°,3°
+440,2020-3-16,mostly sunny,18°,8°
+441,2020-3-17,mostly sunny,19°,8°
+442,2020-3-18,mostly sunny,20°,6°
+443,2020-3-19,mostly sunny,22°,8°
+444,2020-3-20,mostly sunny,21°,10°
+445,2020-3-21,mostly sunny,18°,8°
+446,2020-3-22,cloudy,13°,6°
+447,2020-3-23,cloudy,14°,7°
+448,2020-3-24,mostly sunny,12°,2°
+449,2020-3-25,mostly sunny,11°,2°
+450,2020-3-26,mostly sunny,12°,3°
+451,2020-3-27,mostly sunny,12°,3°
+452,2020-3-28,mostly sunny,17°,5°
+453,2020-3-29,cloudy,11°,3°
+454,2020-3-30,cloudy,8°,3°
+455,2020-3-31,mostly sunny,13°,0°
+456,2020-4-1,mostly sunny,16°,0°
+457,2020-4-2,mostly sunny,16°,4°
+458,2020-4-3,mostly sunny,14°,3°
+459,2020-4-4,mostly sunny,19°,3°
+460,2020-4-5,mostly sunny,21°,9°
+461,2020-4-6,mostly sunny,22°,9°
+462,2020-4-7,mostly sunny,23°,10°
+463,2020-4-8,mostly sunny,23°,10°
+464,2020-4-9,mostly sunny,24°,9°
+465,2020-4-10,mostly sunny,25°,10°
+466,2020-4-11,mostly sunny,25°,10°
+467,2020-4-12,mostly sunny,21°,9°
+468,2020-4-13,mostly sunny,20°,10°
+469,2020-4-14,mostly sunny,17°,7°
+470,2020-4-15,mostly sunny,23°,4°
+471,2020-4-16,mostly sunny,23°,11°
+472,2020-4-17,mostly sunny,22°,11°
+473,2020-4-18,mostly sunny,24°,12°
+474,2020-4-19,mostly sunny,18°,12°
+475,2020-4-20,mostly cloudy,21°,12°
+476,2020-4-21,mostly sunny,19°,14°
+477,2020-4-22,mostly sunny,24°,11°
+478,2020-4-23,mostly sunny,24°,13°
+479,2020-4-24,mostly sunny,25°,12°
+480,2020-4-25,mostly sunny,24°,14°
+481,2020-4-26,mostly sunny,20°,14°
+482,2020-4-27,mostly cloudy,22°,11°
+483,2020-4-28,scattered showers,17°,10°
+484,2020-4-29,mostly sunny,19°,10°
+485,2020-4-30,scattered showers,17°,13°
+486,2020-5-1,scattered showers,14°,10°
+487,2020-5-2,scattered showers,17°,11°
+488,2020-5-3,cloudy,20°,12°
+489,2020-5-4,mostly sunny,26°,12°
+490,2020-5-5,mostly sunny,26°,17°
+491,2020-5-6,mostly cloudy,20°,12°
+492,2020-5-7,mostly sunny,25°,10°
+493,2020-5-8,mostly sunny,26°,16°
+494,2020-5-9,mostly sunny,26°,15°
+495,2020-5-10,mostly sunny,23°,15°
+496,2020-5-11,scattered showers,21°,6°
+497,2020-5-12,cloudy,11°,6°
+498,2020-5-13,cloudy,13°,10°
+499,2020-5-14,cloudy,13°,10°
+500,2020-5-15,cloudy,15°,11°
+501,2020-5-16,mostly sunny,20°,10°
+502,2020-5-17,mostly sunny,21°,10°
+503,2020-5-18,mostly sunny,24°,0°
+504,2020-5-19,mostly sunny,25°,14°
+505,2020-5-20,mostly sunny,26°,14°
+506,2020-5-21,mostly sunny,28°,14°
+507,2020-5-22,mostly sunny,30°,16°
+508,2020-5-23,mostly sunny,24°,11°
+509,2020-5-24,mostly sunny,20°,8°
+510,2020-5-25,mostly sunny,23°,10°
+511,2020-5-26,mostly sunny,24°,12°
+512,2020-5-27,mostly sunny,24°,11°
+513,2020-5-28,mostly sunny,26°,12°
+514,2020-5-29,mostly sunny,25°,13°
+515,2020-5-30,mostly sunny,24°,13°
+516,2020-5-31,mostly sunny,25°,12°
+517,2020-6-1,mostly sunny,27°,15°
+518,2020-6-2,mostly sunny,28°,16°
+519,2020-6-3,mostly sunny,25°,16°
+520,2020-6-4,mostly sunny,21°,15°
+521,2020-6-5,cloudy,18°,13°
+522,2020-6-6,mostly sunny,24°,15°
+523,2020-6-7,scattered showers,20°,11°
+524,2020-6-8,mostly sunny,19°,10°
+525,2020-6-9,scattered showers,14°,12°
+526,2020-6-10,cloudy,18°,13°
+527,2020-6-11,mostly sunny,23°,12°
+528,2020-6-12,mostly sunny,21°,14°
+529,2020-6-13,mostly sunny,21°,13°
+530,2020-6-14,mostly sunny,22°,14°
+531,2020-6-15,mostly sunny,23°,13°
+532,2020-6-16,mostly sunny,23°,13°
+533,2020-6-17,mostly sunny,21°,14°
+534,2020-6-18,mostly sunny,23°,13°
+535,2020-6-19,mostly sunny,23°,14°
+536,2020-6-20,mostly sunny,25°,12°
+537,2020-6-21,mostly sunny,26°,14°
+538,2020-6-22,mostly sunny,25°,18°
+539,2020-6-23,mostly sunny,29°,15°
+540,2020-6-24,mostly sunny,32°,18°
+541,2020-6-25,mostly sunny,32°,21°
+542,2020-6-26,mostly sunny,30°,19°
+543,2020-6-27,mostly sunny,31°,20°
+544,2020-6-28,mostly cloudy,29°,19°
+545,2020-6-29,mostly cloudy,27°,18°
+546,2020-6-30,mostly sunny,28°,15°
+547,2020-7-1,mostly sunny,31°,19°
+548,2020-7-2,partly cloudy,26°,19°
+549,2020-7-3,mostly sunny,24°,15°
+550,2020-7-4,mostly sunny,26°,13°
+551,2020-7-5,mostly sunny,29°,17°
+552,2020-7-6,mostly cloudy,25°,18°
+553,2020-7-7,mostly sunny,25°,13°
+554,2020-7-8,mostly sunny,29°,13°
+555,2020-7-9,mostly sunny,34°,17°
+556,2020-7-10,mostly sunny,31°,20°
+557,2020-7-11,mostly sunny,25°,17°
+558,2020-7-12,mostly sunny,28°,13°
+559,2020-7-13,mostly sunny,28°,15°
+560,2020-7-14,mostly sunny,28°,15°
+561,2020-7-15,mostly cloudy,22°,18°
+562,2020-7-16,mostly cloudy,24°,16°
+563,2020-7-17,mostly cloudy,23°,17°
+564,2020-7-18,mostly sunny,28°,14°
+565,2020-7-19,mostly sunny,30°,15°
+566,2020-7-20,mostly sunny,34°,17°
+567,2020-7-21,mostly sunny,35°,21°
+568,2020-7-22,mostly sunny,31°,19°
+569,2020-7-23,mostly sunny,31°,18°
+570,2020-7-24,mostly sunny,30°,19°
+571,2020-7-25,mostly sunny,31°,18°
+572,2020-7-26,mostly sunny,30°,21°
+573,2020-7-27,mostly sunny,36°,18°
+574,2020-7-28,mostly sunny,33°,24°
+575,2020-7-29,mostly sunny,31°,20°
+576,2020-7-30,mostly sunny,37°,19°
+577,2020-7-31,mostly sunny,39°,24°
+578,2020-8-1,mostly sunny,36°,19°
+579,2020-8-2,mostly cloudy,26°,19°
+580,2020-8-3,mostly cloudy,22°,15°
+581,2020-8-4,mostly sunny,24°,13°
+582,2020-8-5,mostly sunny,28°,13°
+583,2020-8-6,mostly sunny,31°,16°
+584,2020-8-7,mostly sunny,35°,19°
+585,2020-8-8,mostly sunny,36°,20°
+586,2020-8-9,mostly sunny,36°,21°
+587,2020-8-10,mostly sunny,36°,22°
+588,2020-8-11,mostly sunny,35°,21°
+589,2020-8-12,mostly sunny,33°,23°
+590,2020-8-13,mostly sunny,30°,22°
+591,2020-8-14,mostly sunny,28°,19°
+592,2020-8-15,mostly sunny,31°,18°
+593,2020-8-16,mostly cloudy,27°,20°
+594,2020-8-17,mostly cloudy,28°,18°
+595,2020-8-18,mostly sunny,29°,19°
+596,2020-8-19,mostly sunny,32°,18°
+597,2020-8-20,mostly sunny,33°,22°
+598,2020-8-21,mostly sunny,35°,23°
+599,2020-8-22,mostly sunny,27°,20°
+600,2020-8-23,mostly sunny,25°,17°
+601,2020-8-24,mostly sunny,26°,13°
+602,2020-8-25,mostly sunny,32°,15°
+603,2020-8-26,mostly cloudy,28°,20°
+604,2020-8-27,mostly sunny,30°,15°
+605,2020-8-28,scattered showers,24°,15°
+606,2020-8-29,mostly cloudy,21°,15°
+607,2020-8-30,mostly cloudy,20°,14°
+608,2020-8-31,partly cloudy,21°,11°
+609,2020-9-1,mostly sunny,22°,11°
+610,2020-9-2,mostly sunny,24°,12°
+611,2020-9-3,mostly sunny,26°,12°
+612,2020-9-4,mostly sunny,30°,14°
+613,2020-9-5,mostly sunny,30°,18°
+614,2020-9-6,mostly sunny,22°,15°
+615,2020-9-7,mostly sunny,23°,11°
+616,2020-9-8,mostly sunny,25°,11°
+617,2020-9-9,mostly sunny,27°,14°
+618,2020-9-10,mostly sunny,29°,15°
+619,2020-9-11,mostly sunny,28°,16°
+620,2020-9-12,mostly sunny,29°,15°
+621,2020-9-13,mostly sunny,30°,16°
+622,2020-9-14,mostly sunny,33°,18°
+623,2020-9-15,mostly sunny,32°,22°
+624,2020-9-16,mostly sunny,32°,20°
+625,2020-9-17,mostly sunny,31°,17°
+626,2020-9-18,mostly sunny,32°,18°
+627,2020-9-19,mostly sunny,29°,18°
+628,2020-9-20,scattered showers,25°,17°
+629,2020-9-21,mostly cloudy,23°,17°
+630,2020-9-22,mostly cloudy,24°,17°
+631,2020-9-23,mostly sunny,26°,15°
+632,2020-9-24,mostly cloudy,21°,17°
+633,2020-9-25,mostly cloudy,17°,10°
+634,2020-9-26,mostly cloudy,12°,7°
+635,2020-9-27,scattered showers,10°,6°
+636,2020-9-28,scattered showers,12°,9°
+637,2020-9-29,partly cloudy,17°,10°
+638,2020-9-30,mostly sunny,20°,8°
+639,2020-10-1,mostly sunny,17°,12°
+640,2020-10-2,rain,19°,8°
+641,2020-10-3,scattered showers,16°,8°
+642,2020-10-4,mostly cloudy,16°,11°
+643,2020-10-5,mostly sunny,15°,11°
+644,2020-10-6,mostly cloudy,16°,12°
+645,2020-10-7,mostly cloudy,17°,12°
+646,2020-10-8,mostly sunny,20°,8°
+647,2020-10-9,partly cloudy,19°,10°
+648,2020-10-10,mostly cloudy,15°,9°
+649,2020-10-11,mostly cloudy,13°,6°
+650,2020-10-12,mostly sunny,13°,7°
+651,2020-10-13,mostly cloudy,12°,4°
+652,2020-10-14,mostly cloudy,12°,8°
+653,2020-10-15,cloudy,10°,6°
+654,2020-10-16,mostly cloudy,13°,9°
+655,2020-10-17,cloudy,12°,8°
+656,2020-10-18,mostly sunny,13°,5°
+657,2020-10-19,mostly sunny,17°,3°
+658,2020-10-20,mostly sunny,18°,14°
+659,2020-10-21,mostly sunny,21°,17°
+660,2020-10-22,scattered showers,18°,15°
+661,2020-10-23,scattered showers,16°,13°
+662,2020-10-24,foggy,18°,11°
+663,2020-10-25,mostly sunny,19°,10°
+664,2020-10-26,rain,14°,7°
+665,2020-10-27,mostly cloudy,15°,8°
+666,2020-10-28,mostly sunny,18°,9°
+667,2020-10-29,tornado,12°,11°
+668,2020-10-30,mostly sunny,18°,7°
+669,2020-10-31,foggy,20°,5°
+670,2020-11-1,mostly sunny,21°,9°
+671,2020-11-2,mostly sunny,20°,13°
+672,2020-11-3,scattered showers,14°,9°
+673,2020-11-4,mostly cloudy,11°,7°
+674,2020-11-5,cloudy,12°,8°
+675,2020-11-6,mostly sunny,18°,4°
+676,2020-11-7,mostly sunny,17°,12°
+677,2020-11-8,tornado,14°,12°
+678,2020-11-9,tornado,15°,12°
+679,2020-11-10,foggy,14°,7°
+680,2020-11-11,foggy,12°,8°
+681,2020-11-12,mostly sunny,18°,7°
+682,2020-11-13,mostly sunny,17°,9°
+683,2020-11-14,mostly sunny,18°,11°
+684,2020-11-15,mostly cloudy,18°,12°
+685,2020-11-16,mostly cloudy,14°,8°
+686,2020-11-17,mostly sunny,13°,4°
+687,2020-11-18,mostly sunny,19°,5°
+688,2020-11-19,mostly cloudy,12°,7°
+689,2020-11-20,mostly sunny,9°,3°
+690,2020-11-21,cloudy,5°,-1°
+691,2020-11-22,foggy,4°,-2°
+692,2020-11-23,foggy,8°,-3°
+693,2020-11-24,foggy,7°,-1°
+694,2020-11-25,mostly sunny,14°,4°
+695,2020-11-26,mostly sunny,15°,4°
+696,2020-11-27,mostly sunny,15°,5°
+697,2020-11-28,mostly sunny,10°,1°
+698,2020-11-29,cloudy,3°,-1°
+699,2020-11-30,cloudy,3°,1°
+700,2020-12-1,scattered showers,5°,0°
+701,2020-12-2,cloudy,4°,2°
+702,2020-12-3,mostly sunny,8°,3°
+703,2020-12-4,scattered showers,9°,2°
+704,2020-12-5,mostly sunny,5°,1°
+705,2020-12-6,foggy,7°,0°
+706,2020-12-7,mostly cloudy,8°,2°
+707,2020-12-8,scattered showers,8°,3°
+708,2020-12-9,mostly cloudy,5°,0°
+709,2020-12-10,mostly sunny,4°,-2°
+710,2020-12-11,scattered showers,8°,1°
+711,2020-12-12,scattered showers,9°,7°
+712,2020-12-13,mostly sunny,10°,2°
+713,2020-12-14,mostly sunny,13°,3°
+714,2020-12-15,scattered showers,13°,9°
+715,2020-12-16,mostly sunny,15°,7°
+716,2020-12-17,mostly sunny,10°,6°
+717,2020-12-18,mostly cloudy,14°,8°
+718,2020-12-19,mostly cloudy,14°,5°
+719,2020-12-20,rain,11°,6°
+720,2020-12-21,foggy,11°,3°
+721,2020-12-22,mostly cloudy,15°,7°
+722,2020-12-23,mostly cloudy,14°,7°
+723,2020-12-24,scattered showers,13°,4°
+724,2020-12-25,cloudy,4°,2°
+725,2020-12-26,mostly cloudy,4°,-2°
+726,2020-12-27,mostly sunny,7°,-2°
+727,2020-12-28,mostly sunny,9°,5°
+728,2020-12-29,mostly sunny,9°,5°
+729,2020-12-30,mostly cloudy,6°,0°
+730,2020-12-31,scattered showers,6°,1°
