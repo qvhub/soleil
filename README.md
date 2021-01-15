@@ -84,6 +84,53 @@ weather.py
 
 data_clean.py
 
+- le fichier weather :
+
+Il permet de scraper les stations météo contenues dans une liste.
+
+L’exécution du script ne supprimer pas les scraps précédent.
+
+Le résultat du scraping sous le format csv et dans le dossier render.
+
+
+
+les données scarpé sont :
+
+le jour de l’année
+
+la tendance de la météo de ce jour (nuageux, pluvieux ...)
+
+Température max et température min 
+
+
+
+Clean weather :
+
+Le script permet la fusion automatique des données de touts les fichiers du dossier rendez.
+
+l’attribution est score global pour la météo en France
+
+le résultat est exporté en csv dans le dossier data 
+
+
+*** T O - D O ***
+
+Parallélisation du scraping sur les différentes stations météo 
+
+Scrape de la météo heure par heure du leve au couche du soleil dans le but d'avoir une analyse géographique précise.
+
+Scraper les données des fichiers JSON 
+
+
 # 3 | A N A L Y S E 
 
 data_analyse.ipynb
+
+Piste à explorer pour avoir une analyse plus pertinente
+
+- Impact des saisons sur la consultation de contenues en ligne.
+
+- Quel paramètre météorologique est en corrélation avec les sorties des utilisateurs
+
+- L'utilisation des réseaux sociaux sur mobile et chez soi et à l'extérieur
+
