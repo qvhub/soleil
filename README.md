@@ -95,6 +95,19 @@ Pour r/france, les infos ne sont pas à la même place que quand on fait une rec
 
 Nous avons récupéré 950 articles pour r/jeuxvideo et 938 pour f/france, il doit possiblement y avoir une limite d'article visibles. Ceux pour r/france datent tous de 2021
 
+S U J E T : not working
+
+## sujet : "ordi"
+
+Pour le sujet "ordi" dans r/france, le même code arrive à récupérer les infos ( date, titre, nombre de points et commentaires), mais quand il clique sur suivant pour la dernière page, il n'y a apparemment plus de sujets et il y a comme texte 'apparemment il n'y a rien ici". Cela fait une IndexError car il n'y a plus de bouton prev/next, juste le texte cité. (8 pages
+
+## sujet : "paris"
+
+Pour le sujet "paris" dans r/france:
+
+premier problème : à la 6eme page, ça fait une AttributeError: 'NoneType' object has no attribute 'a' (pour la fonction pour récupérer les titres) J'ai donc mis la fonction nb_titre en commentaire pour essayer d'executer sans les titres et voir si il arrive à récup les autres infos sur toutes les pages
+
+deuxieme problème : on voit que ça s'arrête à la page 10 et qu'il n'y a plus de bouton "next", alors que le dernier sujet date d'à peine 1 mois. Les gens n'ont pas commencé à parler de Paris dans r/france qu'à partir d'il y a un mois, on suppose donc que quand on fait une recherche de mot clé, c'est limité à 10 pages max.
 
 *** T O - D O ***
 
