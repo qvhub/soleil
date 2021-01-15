@@ -12,8 +12,6 @@ Par Maya Safa, Fanny Billet, Quentin Vautier
 
 # Scrapping_reddit_weather
 ***
-#Notre objectif est de développer un script pour corréler la visibilité des publications sur le réseau social Reddit avec les données météo du jour.
-
 ### Table of Contents
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
@@ -75,6 +73,27 @@ Nous avons récupéré les données de 13 stations différentes météos située
 ## 1 - 1 R E D D I T
 
 reddit_scrap_fanny_maya_quentin.py
+
+*** S U J E T : "Mercredi Tech"
+
+Le script récupère tous les sujets sur toutes les pages (4 pages) utilisation du old.reddit au lieu du reddit actuel car c'est + facile à scrape
+
+*** S U B R E D D I T : r/jeuxvideo
+
+ les infos ne sont pas à la même place que quand on fait une recherche par mot clé, donc il y a des choses à modifier dans le code
+
+les données scarpé sont :
+
+- La date
+- Commentaires
+- Les scores
+- Les titres
+
+*** S U B R E D D I T : r/france
+
+Pour r/france, les infos ne sont pas à la même place que quand on fait une recherche par mot clé, donc il y a des choses à modifier dans le code
+
+Nous avons récupéré 950 articles pour r/jeuxvideo et 938 pour f/france, il doit possiblement y avoir une limite d'article visibles. Ceux pour r/france datent tous de 2021
 
 ## 1 - 2 W U N D E R G R O U N D 
 
