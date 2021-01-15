@@ -74,11 +74,11 @@ Nous avons récupéré les données de 13 stations différentes météos située
 
 reddit_scrap_fanny_maya_quentin.py
 
-*** S U J E T : "Mercredi Tech"
+** S U J E T : "Mercredi Tech"
 
 Le script récupère tous les sujets sur toutes les pages (4 pages) utilisation du old.reddit au lieu du reddit actuel car c'est + facile à scrape
 
-*** S U B R E D D I T : r/jeuxvideo
+** S U B R E D D I T : r/jeuxvideo
 
  les infos ne sont pas à la même place que quand on fait une recherche par mot clé, donc il y a des choses à modifier dans le code
 
