@@ -74,11 +74,11 @@ Nous avons récupéré les données de 13 stations différentes météos située
 
 reddit_scrap_fanny_maya_quentin.py
 
-** S U J E T : "Mercredi Tech"
+## S U J E T : "Mercredi Tech"
 
 Le script récupère tous les sujets sur toutes les pages (4 pages) utilisation du old.reddit au lieu du reddit actuel car c'est + facile à scrape
 
-** S U B R E D D I T : r/jeuxvideo
+## S U B R E D D I T : r/jeuxvideo
 
  les infos ne sont pas à la même place que quand on fait une recherche par mot clé, donc il y a des choses à modifier dans le code
 
@@ -89,13 +89,13 @@ les données scarpé sont :
 - Les scores
 - Les titres
 
-*** S U B R E D D I T : r/france
+## S U B R E D D I T : r/france
 
 Pour r/france, les infos ne sont pas à la même place que quand on fait une recherche par mot clé, donc il y a des choses à modifier dans le code
 
 Nous avons récupéré 950 articles pour r/jeuxvideo et 938 pour f/france, il doit possiblement y avoir une limite d'article visibles. Ceux pour r/france datent tous de 2021
 
-S U J E T : not working
+## S U J E T : not working
 
 ## sujet : "ordi"
 
@@ -124,7 +124,7 @@ weather.py
 
 data_clean.py
 
-- le fichier weather :
+## Le fichier weather :
 
 Il permet de scraper les stations météo contenues dans une liste.
 
@@ -134,7 +134,7 @@ Le résultat du scraping sous le format csv et dans le dossier render.
 
 
 
-les données scarpé sont :
+## Les données scarpé sont :
 
 le jour de l’année
 
@@ -144,7 +144,7 @@ Température max et température min
 
 
 
-Clean weather :
+## Clean weather :
 
 Le script permet la fusion automatique des données de touts les fichiers du dossier rendez.
 
