@@ -95,6 +95,16 @@ Pour r/france, les infos ne sont pas à la même place que quand on fait une rec
 
 Nous avons récupéré 950 articles pour r/jeuxvideo et 938 pour f/france, il doit possiblement y avoir une limite d'article visibles. Ceux pour r/france datent tous de 2021
 
+
+*** T O - D O ***
+
+Trouver les solutions pour les sujets "ordis" et "paris" afin de renforcer l'efficacité du code et palier à + de problèmes possibles
+Continuer à optimiser le code commencé pour r/france
+Essayer de voir si on peut contourner la limite du nombre d'articles et de pages
+Essayer de scraper le reddit actuel pour voir les différences avec old.reddit
+(Faire des scripts universels qui fonctionnent pour toutes les pages)
+rendre le code + sécurisé (pour éviter le ban) et + rapide à execute
+
 ## 1 - 2 W U N D E R G R O U N D 
 
 weather.py
