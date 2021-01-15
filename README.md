@@ -80,8 +80,6 @@ reddit_scrap_fanny_maya_quentin.py
 
 weather.py
 
-# 2 | P R E P A R A T I O N - D E S - D O N N E E S 
-
 data_clean.py
 
 - le fichier weather :
@@ -122,7 +120,7 @@ Scrape de la météo heure par heure du leve au couche du soleil dans le but d'a
 Scraper les données des fichiers JSON 
 
 
-# 3 | A N A L Y S E 
+# 2 | A N A L Y S E 
 
 data_analyse.ipynb
 
